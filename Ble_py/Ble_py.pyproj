@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>7202d3e5-61cc-4224-91e2-eface8a1ec7c</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>extended.py</StartupFile>
+    <StartupFile>getService.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,10 +22,16 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Ble_py.py" />
+    <Compile Include="double.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="doubleDevice.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="extended.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="getService.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="read.py">
