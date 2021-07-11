@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Ble_py", "Ble_py\Ble_py.pyproj", "{7202D3E5-61CC-4224-91E2-EFACE8A1EC7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7202D3E5-61CC-4224-91E2-EFACE8A1EC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7202D3E5-61CC-4224-91E2-EFACE8A1EC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC0FDC5-5F3A-47EE-AC5B-3719C7959037}
+	EndGlobalSection
+EndGlobal
